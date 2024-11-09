@@ -1,19 +1,29 @@
 <h1 align="center">Hi 👋, I'm Sayasat Sabit</h1>
 <h3 align="center">BACK-END Software Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/46f764962d012a38e344425d8ac7b2cfb94d7cf21f4fd3a396f70d7bd2ca8f00/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a6e57515f55354e4b45664e6547435466685f322d4d772e676966">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayasat/sayasat/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayasat/sayasat/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sayasat/sayasat/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<img align="right" alt="coding" width="400"  src="https://camo.githubusercontent.com/46f764962d012a38e344425d8ac7b2cfb94d7cf21f4fd3a396f70d7bd2ca8f00/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a6e57515f55354e4b45664e6547435466685f322d4d772e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayasat&label=Profile%20views&color=0e75b6&style=flat" alt="sayasat" /> </p>
 
 - 🌱 I’m currently learning **AWS, Kafka, Spring Cloud, Kubernetes**
 
+- 💬 Ask me about **Spring Framework, Microservices, Java**
+
 - 📫 How to reach me [sabitsayasatwork@gmail.com](sabitsayasatwork@gmail.com)
 
-- 💬 Ask me about **Spring Framework, Microservices, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sayasat-sabit-62355a31a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayasat sabit" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sayasat-sabit-62355a31a/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="sayasat" height="30" width="40" /></a>
+  <a href="https://web.telegram.org/k/#@Sayasats" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="sayasat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
